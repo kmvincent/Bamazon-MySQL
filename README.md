@@ -8,7 +8,7 @@ In der to run this application, you should have the MySQL database already set u
 ### Customer Interface
 The customer interface allows the user to view the current inventory of store items: item IDs, product, department in which the item is located and price. The user is then able to purchase of the existing items by entering the item ID and the desired quantity. If the selected quanitity is currently in stock, the user's order is fulfilled, displaying the total purchase price and updating the store database. If the desired quantity is not available, the user is prompted to modify their order. 
 
-To run the customer interface please follor the steps below:
+To run the customer interface please follow the steps below:
 ```javascript
 git clone github.com/kmvincent/bamazon.git
 cd bamazon
@@ -41,3 +41,4 @@ node bamazoManager.js
 ```
 
 ### Bamazon Demo
+[Bamazon Demo](https://drive.google.com/open?id=1QqSiyyXpBUwCUjg9iAaIf7n5svF8nes5)
